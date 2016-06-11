@@ -1,3 +1,5 @@
+# Reorder words in alphabetical order
+
 b = raw_input('')
 a = b.split()
 minimum = a[0]
